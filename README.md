@@ -21,6 +21,7 @@ A trajetória está dividida em módulos sequenciais. Cada diretório contém se
 
 | Módulo | Treinamento |
 | :--- | :--- |
+| [**00**](./00-logica-python) | Lógica de Programação com Python |
 | [**01**](./01-linux-cloud-native) | Linux para Cloud Native |
 | [**02**](./02-docker) | Descomplicando o Docker |
 | [**03**](./03-kubernetes) | Descomplicando o Kubernetes |
