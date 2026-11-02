@@ -8,3 +8,8 @@ kubeconfig
 *.tfstate.backup
 *.tfvars
 *.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
